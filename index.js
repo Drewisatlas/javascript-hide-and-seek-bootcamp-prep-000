@@ -1,5 +1,6 @@
 function getFirstSelector(selector) {
-  document.querySelector(selector);
+  
+  document.querySelector();
 }
 
 function nestedTarget() {
